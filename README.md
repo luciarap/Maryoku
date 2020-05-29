@@ -1,1 +1,1 @@
-# projektztiaphra
+# School project
